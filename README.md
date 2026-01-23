@@ -13,8 +13,8 @@ sur la machine locale (localhost).
 ```bash
 python -m http.server 8000
 python port_scan.py
-Entrez un numéro de port à tester : 8000
+Entrez un numéro de port à scanner : 8000
 Port 8000 : OUVERT
 python port_scan.py
-Entrez un numéro de port à tester : 410
+Entrez un numéro de port à scanner : 410
 Port 410 : FERME
